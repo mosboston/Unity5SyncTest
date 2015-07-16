@@ -4,6 +4,6 @@ using System.Collections;
 public class HelloWorld : MonoBehaviour {
 	
 	public void Hello(){
-		Debug.Log("Hello!!!!");
+		Debug.Log("Hello, Ben!!!!");
 	}
 }
